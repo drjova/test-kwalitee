@@ -5,7 +5,7 @@ ignore:
   # For PEP8 error codes readmore:
   # http://pep8.readthedocs.org/en/latest/intro.html#error-codes
   - 'E101'
-  #- 'E111'
+  - 'E111'
   #- 'E112'
   #- 'E113'
   - 'E114'
